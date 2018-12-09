@@ -1,1 +1,4 @@
 # golock
+
+✅ redis
+❌ etcd
