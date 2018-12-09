@@ -1,4 +1,6 @@
 # golock
 
-✅ redis
-❌ etcd
+- [ ] redis
+- [ ] etcd
+- [ ] consul
+- [ ] zookeeper
